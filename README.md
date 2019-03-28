@@ -7,7 +7,7 @@ Usage
 -----
 
 ```
-mips-assembler-cli code.asm
+mips-assembler-cli code.asm output.bin
 ```
 
 Development
